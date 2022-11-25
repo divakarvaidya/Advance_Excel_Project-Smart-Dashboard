@@ -7,4 +7,4 @@ Dashboard storytelling is the process of creating a compelling narrative around 
 ![2022-11-25 (1)](https://user-images.githubusercontent.com/113365345/204018966-70196c1f-7a2c-41bf-af93-636c6135ac6b.png)
 
 # Thank you
-Help.support = divakarvaidya@gmail.com
+Help.support = divakarvaidya10@gmail.com
